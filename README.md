@@ -2,3 +2,5 @@
 
 
 Readme de exemplo (1-9-21_10-26)
+
+"Lembrei do comando: git status"
